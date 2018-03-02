@@ -1,7 +1,7 @@
 # blob
 视频加密-blob格式实现
 
-1.视频加密原理解析（本人blog） —— [链接地址]（http://algate.gitlab.io/2018/01/02/Media%E8%A7%86%E9%A2%91%E5%8A%A0%E5%AF%86%E4%B8%80/）
+1.视频加密原理解析（本人blog） —— [链接地址](http://algate.gitlab.io/2018/01/02/Media%E8%A7%86%E9%A2%91%E5%8A%A0%E5%AF%86%E4%B8%80/)
 
 2.视频加密代码请访问本项目
 
